@@ -81,6 +81,10 @@
 
 html,
 body {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 100vw;
   overflow-x: hidden;
 }
