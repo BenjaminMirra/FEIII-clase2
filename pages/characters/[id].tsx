@@ -32,3 +32,4 @@ const CharacterId = () => {
 }
 
 export default CharacterId;
+
